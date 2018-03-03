@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">thenytimesdemo</string>
+    <string name="noInternet">No internet connection! :(</string>
+    <string name="selectNews">Select news! :)</string>
+    <string name="error">error :(</string>
+    <string name="title">Title</string>
+    <string name="type">Type</string>
+    <string name="abstractText">Abstract</string>
+    <string name="source">Source</string>
+    <string name="section">Section</string>
+    <string name="publishedDate">Published date</string>
+    <string name="url">Url</string>
+</resources>
